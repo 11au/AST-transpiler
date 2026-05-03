@@ -35,5 +35,4 @@ maybe store the object called the variable name
 or i can find the $a and refer to the same object in the AST
 
 to do: 
-[ ] reference implementation
-[ ] new line for each command
+[ ] for exit, do done things that take no argument surround in a larger class
